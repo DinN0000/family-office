@@ -9,6 +9,7 @@
 - **리**가 front door / supervisor / single intake가 된다.
 - **CIO / CFO / CTO / COO**는 governance layer로서 판단, 승인, ownership을 맡는다.
 - **exec 채널**은 visible execution lane으로 운영한다.
+- **#fo-lounge**는 cross-functional discussion / idea exchange / briefing 공간으로 운영한다.
 - 중요한 결과물은 **generate → validate → finalize**를 거친다.
 - 최종 사용자-facing 결론은 가능한 한 **single-owner voice**로 정리한다.
 - Slack에서는 **스레드 강제를 최소화**하고 채널 본문 중심으로 자연스럽게 운영한다.
@@ -29,7 +30,7 @@
 - `#chief-of-staff` → `C0AR0DCSP7F`
 
 생성된 Family Office 채널:
-- `#fo-lounge` → `C0ASK6209BJ`
+- `#fo-lounge` → `C0ASK6209BJ` (cross-functional discussion / briefing lounge)
 - `#cio-general` → `C0ARMFEMYE9`
 - `#cfo-general` → `C0ARUFFQERJ`
 - `#cto-general` → `C0ARNRHKSQ6`
@@ -78,6 +79,8 @@
 - 오너는 어디로 말해야 할지 고민하지 않게 한다.
 - 리가 기본 intake를 맡는다.
 - C레벨은 실무 로그 생산보다 판단과 승인에 집중한다.
+- `#fo-lounge`에서는 자유 논의와 아이디어 탐색이 가능하다.
+- 다만 논의와 승인, 실행, 최종 게시 책임은 서로 분리한다.
 - 실행은 숨기지 않지만, general 채널에 소음을 쌓지 않는다.
 - 중간 산출물은 checkpoint 가능한 형태로 남긴다.
 - 최종 결론은 한 명이 책임지고 게시한다.
